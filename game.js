@@ -30,6 +30,9 @@ if (
     losses++
 }
 
+// show score
+alert("Wins: " + wins + "\nTies: " + ties + "\nLosses: " + losses)
+
 // play again?
     // if yes
         // restart game
